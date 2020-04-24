@@ -9,7 +9,7 @@ import (
 
 	"context"
 
-	pb "dev.azure.com/knutalvestad/ship/ship.git/shippy-service-consignment"
+	pb "github.com/knutia/shippy/shippy-service-consignment/proto/consignment"
 	"google.golang.org/grpc"
 )
 
