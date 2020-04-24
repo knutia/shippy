@@ -7,10 +7,10 @@ import (
 	"sync"
 
 	// Import the generated protobuf code
-	pb "github.com/knutia/shippy-service-consignment/proto/consignment"
+	pb "github.com/knutia/shippy/shippy-service-consignment/proto/consignment"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
-)
+)cd
 
 const (
 	port = ":50051"
